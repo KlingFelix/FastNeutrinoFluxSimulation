@@ -1,0 +1,23 @@
+Name: Neutrinos_Shower
+Year: 2021
+Summary: Forward Neutrino Flux from downstream hadronic Showers at $\sqrt{s}$=13 TeV
+Experiment: FASER and SND@LHC 
+Collider: LHC
+InspireID: XXX
+Status: UNVALIDATED NOHEPDATA 
+Authors:
+ - Felix Kling <fkling@slac.stanford.edu>
+References:
+ - arXiv:XXXX.XXXXX
+#RunInfo: run inelastic events
+Beams: [p+, p+]
+Energies: [[6500,6500]]
+Description:
+  'This module obtains a first rough estimate of the energy spectrum of 
+   the neutrinos from downstream hadronic showers going through the 
+   far-forward LHC neutrino detectors FASERv and SND@LHC. Note that this is 
+   just a first estimate of this subdominant production mode, which 
+   should therefore not be considered as accurate.'
+Keywords: []
+BibKey: 
+BibTeX: ''
