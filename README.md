@@ -2,7 +2,7 @@
 
 **By Felix Kling**
 
-[![arXiv](http://img.shields.io/badge/arXiv-XXXX.XXXX-B31B1B.svg)](https://arxiv.org/abs/XXXX.XXXX)
+[![arXiv](http://img.shields.io/badge/arXiv-2105.08270-B31B1B.svg)](https://arxiv.org/abs/2105.08270)
 
 ## Introduction
 
@@ -10,7 +10,7 @@ With the upcoming Run~3 of the LHC, the FASER$\nu$ and SND@LHC detectors will st
 
 ### Paper
 
-Our main publication [Far-Forward Neutrino Fluxes and Simulation at the LHC](https://arxiv.org/abs/XXXX.XXXX)
+Our main publication [Far-Forward Neutrino Fluxes and Simulation at the LHC](https://arxiv.org/abs/2105.08270)
 provides an overview over this simulation and presents its results. We recommend reading it first before jumping into the code.
 
 ### Support
