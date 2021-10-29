@@ -23,7 +23,7 @@ If you have any questions, please write us at [felixk@slac.stanford.edu](felixk@
 
 ### Citations
 
-If you use this code, or its results, please cite our main publication:
+If you use this code, or its results, please cite our main publication: [2105.08270](https://arxiv.org/abs/2105.08270)
 
 ### Usefull References 
 
