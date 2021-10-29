@@ -10,7 +10,7 @@ With the upcoming Run~3 of the LHC, the FASERv and SND@LHC detectors will start 
 
 ### Paper
 
-Our main publication [Far-Forward Neutrino Fluxes and Simulation at the LHC](https://arxiv.org/abs/2105.08270)
+Our main publication [Forward Neutrino Fluxes and Simulation at the LHC](https://arxiv.org/abs/2105.08270)
 provides an overview over this simulation and presents its results. We recommend reading it first before jumping into the code.
 
 ### Fluxes
@@ -30,3 +30,4 @@ If you use this code, or its results, please cite our main publication:
 - FASERv Letter of Intent and Physics: [1908.02310](https://arxiv.org/abs/1908.02310)
 - FASER Technical Proposal: [2001.03073](https://arxiv.org/abs/2001.03073)
 - SND@LHC Paper: [2002.08722](https://arxiv.org/abs/2002.08722)
+- Forward Physics Facility Paper: [2109.10905](https://arxiv.org/abs/2109.10905)
