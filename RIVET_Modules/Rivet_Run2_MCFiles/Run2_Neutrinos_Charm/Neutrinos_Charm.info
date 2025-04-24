@@ -1,0 +1,20 @@
+Name: Neutrinos_Charm
+Year: 2021
+Summary: Forward Neutrino Flux from Charmed Hadron Decays at $\sqrt{s}$=13 TeV
+Experiment: 
+Collider: LHC
+InspireID:
+Status: VALIDATED NOHEPDATA 
+Authors:
+ - Felix Kling <flxkling@gmail.com>
+References:
+ - arXiv:XXXX.XXXXX
+#RunInfo: run inelastic events
+Beams: [p+, p+]
+Energies: [[6800,6800]]
+Description:
+  'This module obtains the energy spectrum of the neutrinos from charmed hadron decay
+   going through the far-forward LHC neutrino detectors.'
+Keywords: []
+BibKey: 
+BibTeX: ''
