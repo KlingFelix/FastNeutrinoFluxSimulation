@@ -7,7 +7,7 @@
 
 ## Introduction
 
-With the beginning of Run~3 of the LHC, the FASERv and SND@LHC detectors have started a new era of neutrino physics using the far-forward high-energy neutrino beam produced in collisions at ATLAS. This LHC neutrino physics program requires reliable estimates of the LHC’s forward neutrino fluxes and their uncertainties. Here, we provide a new fast-neutrino flux simulation, implemented as a RIVET module, to address this issue. 
+With the beginning of Run 3 of the LHC, the FASERv and SND@LHC detectors have started a new era of neutrino physics using the far-forward high-energy neutrino beam produced in collisions at ATLAS. This LHC neutrino physics program requires reliable estimates of the LHC’s forward neutrino fluxes and their uncertainties. Here, we provide a new fast-neutrino flux simulation, implemented as a RIVET module, to address this issue. 
 
 The beam of forward, high-energy neutrinos observable at FASER mainly originates from the weak decays of hadrons that are produced at the ATLAS interaction point. This includes light hadrons (pions, kaons, and hyperons), which are long-lived and decay inside the LHC vacuum beam pipe, and also charm hadrons, which decay essentially promptly.
 
@@ -15,7 +15,7 @@ To obtain the neutrino flux, one needs to model the trajectory of the long-lived
 
 ### Publications
 
-The simulation was first developed as part of the publication [Forward Neutrino Fluxes and Simulation at the LHC](https://arxiv.org/abs/2105.08270), which provides an overview over this simulation and presents its results. We recommend reading it first before jumping into the code. The simulation was further modified and improved in the publication [Neutrino Rate Predictions for FASER](https://arxiv.org/abs/2402.13318), where the beam and infrastructure modeling were adjusted according to configuration in LHC Run~3 and Run~4, and an event output was introduced.
+The simulation was first developed as part of the publication [Forward Neutrino Fluxes and Simulation at the LHC](https://arxiv.org/abs/2105.08270), which provides an overview over this simulation and presents its results. We recommend reading it first before jumping into the code. The simulation was further modified and improved in the publication [Neutrino Rate Predictions for FASER](https://arxiv.org/abs/2402.13318), where the beam and infrastructure modeling were adjusted according to configuration in LHC Run 3 and Run 4, and an event output was introduced.
 
 ### Citations
 
