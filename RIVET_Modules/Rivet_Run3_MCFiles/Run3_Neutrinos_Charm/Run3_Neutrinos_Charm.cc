@@ -200,17 +200,21 @@ namespace Rivet {
                 FourMomentum phad = part.momentum();
                 if (_xing_urad_v != 0){
                     float angle = _xing_urad_v/1000./1000. ;
-                    phad = FourMomentum(phad.E(),
-                                        phad.x(),
-                                        phad.y()*cos(angle)+phad.z()*sin(angle),
-                                        phad.z()*cos(angle)-phad.y()*sin(angle));
+                    phad.setXYZM(
+                        phad.x(),
+                        phad.y()*cos(angle)+phad.z()*sin(angle),
+                        phad.z()*cos(angle)-phad.y()*sin(angle),
+                        phad.mass()
+                    );
                 }
                 if (_xing_urad_h != 0){
                     float angle = _xing_urad_h/1000./1000. ;
-                    phad = FourMomentum(phad.E(),
-                                        phad.x()*cos(angle)+phad.z()*sin(angle),
-                                        phad.y() ,
-                                        phad.z()*cos(angle)-phad.x()*sin(angle));
+                    phad.setXYZM(
+                        phad.x()*cos(angle)+phad.z()*sin(angle),
+                        phad.y(),
+                        phad.z()*cos(angle)-phad.x()*sin(angle),
+                        phad.mass()
+                   );
                 }
                 
                 // redecay rate
